@@ -23,7 +23,7 @@ I.e. Java, Node
 Quality Engineering!
 
 ### Statisticians & Decision Scientists
-Implementation of advance statistical models or simple data distributions that look for patterns in the dataset.  
+Implementation of advance statistical models or simple data distributions that look for patterns in the dataset.
 E.g. Create a number of distributions to identify trends within the data
 I.e. Python, R
 
