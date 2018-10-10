@@ -19,12 +19,14 @@ Feel free to identify any data patterns and risks that you come across. The proj
 Implementation in strongly typed, object oriented programming language such as Java or TypeScript. 
 E.g. Create an end-point to help support querying the data
 I.e. Java, Node
+
 Quality Engineering!
 
 ### Statisticians & Decision Scientists
 Implementation of advance statistical models or simple data distributions that look for patterns in the dataset.  
 E.g. Create a number of distributions to identify trends within the data
 I.e. Python, R
+
 Actionable Insights!
 
 
@@ -32,6 +34,7 @@ Actionable Insights!
 Implementation using interactive & configurable dashboards that bring the data to life for the bank.
 E.g. Create a dashboard for the risk team to view key metrics on the file
 I.e React, Angular, HTML
+
 Beautiful Business!
 
 
