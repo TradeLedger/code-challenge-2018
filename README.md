@@ -65,9 +65,9 @@ We like to encourage open collaboration and communities so we’d prefer you to 
 ## Data Descriptions
 
 Sample Record
-
- "number" : "INV0",
  
+    "number" : "INV0",
+    
     "issueDate" : "2015-01-01",
   
     "dueDate" : "2015-03-02",
